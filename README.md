@@ -1,16 +1,28 @@
-## Hi there 👋
+# Raul José Pereira Neto
 
-<!--
-**RaulJPNeto/RaulJPNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-end Developer | PHP/Laravel | Sustentação de Sistemas Críticos
 
-Here are some ideas to get you started:
+Atualmente atuando na sustentação do sistema e-Proc no Tribunal de Justiça do Tocantins (TJTO), com experiência em análise de incidentes, manutenção de sistemas corporativos e desenvolvimento back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* PHP / Laravel
+* PostgreSQL
+* JavaScript / HTML / CSS
+* Docker
+* Git / GitHub
+* Linux / Windows Server
+
+## Formação
+
+* MBA em Gestão de Projetos em TI (Em andamento)
+* Pós-graduação em IA e Machine Learning
+* Tecnólogo em Sistemas para Internet
+
+## Projetos em Destaque
+
+🚧 Em construção — novos projetos de portfólio serão adicionados em breve.
+
+## Contato
+- [LinkedIn]([https://linkedin.com/in/seu-link](https://www.linkedin.com/in/raul-jos%C3%A9-pereira-neto-a30827141/))
+- Email: rauljose280@gmail.com
