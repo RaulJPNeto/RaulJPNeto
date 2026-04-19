@@ -51,5 +51,5 @@ API REST para gerenciamento de tickets de suporte técnico, com arquitetura em c
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-jos%C3%A9-pereira-neto-a30827141/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/raul-jos%C3%A9-pereira-neto-a30827141/](https://www.linkedin.com/in/raul-neto-a30827141?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc%2BYKE%2FjHRfKDTDSx3RbN%2BA%3D%3D))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rauljose280@gmail.com)
