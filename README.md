@@ -2,7 +2,7 @@
 
 **Back-end Developer · PHP/Laravel · Sustentação de Sistemas Críticos**
 
-Atualmente atuando na sustentação do sistema **e-Proc** no Tribunal de Justiça do Tocantins (TJTO), com experiência em análise de incidentes, manutenção de sistemas corporativos e desenvolvimento back-end.
+Atualmente atuo na sustentação do sistema e-Proc no Tribunal de Justiça do Tocantins (TJTO), trabalhando com análise de incidentes, manutenção de sistemas corporativos e evolução de funcionalidades em ambiente crítico.
 
 ---
 
@@ -86,6 +86,12 @@ Template base para iniciar projetos Laravel API com todas as ferramentas de qual
 - 🎓 MBA em Gestão de Projetos em TI *(em andamento)*
 - 🎓 Pós-graduação em IA e Machine Learning
 - 🎓 Tecnólogo em Sistemas para Internet
+
+---
+
+##Objetivo
+
+Atuar como desenvolvedor back-end pleno, contribuindo na construção de APIs robustas, evolução de sistemas existentes e aplicação de boas práticas de arquitetura em ambientes de produção.
 
 ---
 
