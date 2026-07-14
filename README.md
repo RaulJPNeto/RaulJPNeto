@@ -83,7 +83,7 @@ Template base para iniciar projetos Laravel API com todas as ferramentas de qual
 
 ## Formação
 
-- 🎓 MBA em Gestão de Projetos em TI *(em andamento)*
+- 🎓 MBA em Gestão de Projetos em TI
 - 🎓 Pós-graduação em IA e Machine Learning
 - 🎓 Tecnólogo em Sistemas para Internet
 
