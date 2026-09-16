@@ -51,21 +51,6 @@ API REST para gerenciamento de tickets de suporte técnico, com arquitetura em c
 
 ---
 
-### 🃏 [OPTCG Tracker API](https://github.com/RaulJPNeto/optcg-tracker-api) *(em desenvolvimento)*
-
-API REST para a comunidade brasileira de One Piece TCG acompanhar spoilers japoneses, construir decks e monitorar o meta competitivo.
-
-**Stack:** Laravel · PostgreSQL · Docker · Sanctum · Swagger · React
-
-**Destaques:**
-- Sistema de convites para controle de acesso
-- Cadastro e listagem de cartas anunciadas no Japão
-- Deck builder integrado
-- Tier list com histórico de alterações
-- Fullstack: API Laravel + frontend React
-
----
-
 ### 🧱 [Laravel API Baseline](https://github.com/RaulJPNeto/laravel-api-baseline)
 
 Template base para iniciar projetos Laravel API com todas as ferramentas de qualidade e produtividade já configuradas.
